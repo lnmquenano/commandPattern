@@ -11,3 +11,4 @@ Design a system that allows you to control multiple smart home devices with ease
 
 
 <h3>UML Class Diagram:</h3>
+<img width="3441" height="2649" alt="SHCH_UML" src="https://github.com/user-attachments/assets/f625d7e1-4ebd-492d-93c1-391d868a4ea3" />
