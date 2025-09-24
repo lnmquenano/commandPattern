@@ -10,4 +10,4 @@ Design a system that allows you to control multiple smart home devices with ease
 4. Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details. <br><br>
 
 
-<h3>UML Class Diagram (using PlantUML):</h3>
+<h3>UML Class Diagram:</h3>
