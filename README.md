@@ -2,7 +2,7 @@
 <h3>Software Engineering 1 | Lab Assignment 2</h3>
 
 <h3><strong>Problem Statement:</strong></h3>
-Design a system that allows you to control multiple smart home devices with ease. Your goal is to create a solution where:
+Design a system that allows you to control multiple smart home devices with ease. Your goal is to create a solution where:<br><br>
 
 1. You can control a variety of devices from a central hub or app, sending commands like "Turn On," "Turn Off," "Increase Temperature," "Decrease Volume," etc. <br><br>
 2. Each device has unique actions associated with these commands. For example, turning on the lights might involve changing their brightness level, while turning on the music player may involve playing a specific playlist. <br><br>
